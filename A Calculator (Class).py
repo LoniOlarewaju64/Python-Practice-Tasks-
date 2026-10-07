@@ -24,7 +24,7 @@ class Calculator:
 # Check the starting result
 # print("Initial Result:", my_calc.get_result()) 
 
-
+# This is going to be awesome...
 
 
 # --- Second Part: Arithmetic Methods ---
