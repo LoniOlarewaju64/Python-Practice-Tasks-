@@ -1,0 +1,10 @@
+# Exercise:
+# Create a class called Car and it should have three attributes: name, color & type
+# The type can be of electric/hybrid
+# Then create two cars of different attributes then print them
+
+
+class ClassCar:
+    car_name = "Mercedes Benz"
+    car_type = "Electric"
+    car_colour = ""
